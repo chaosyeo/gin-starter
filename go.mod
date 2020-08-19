@@ -1,4 +1,4 @@
-module gin-starter
+module github.com/chaosyeo/gin-starter
 
 go 1.14
 
